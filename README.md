@@ -2,11 +2,11 @@
 A website status checker using asynchronous programming in "Python 3.7"
 
 # Libraries-used:
-  requests  [Docs @ https://requests.readthedocs.io]
-  threading.Thread
-  functools.partial
-  logging
-  time
+  requests  [Docs @ https://requests.readthedocs.io],  
+  threading.Thread, 
+  functools.partial, 
+  logging, 
+  time.
   
   
 # Concepts used:
@@ -20,13 +20,13 @@ A website status checker using asynchronous programming in "Python 3.7"
                 etc.
                 
 
-Subscribe to my Youtube Channel if you want to see more projects like this one.
-Cheers!
-
 # Developed by:
   Shreyash
  
  
  # Note
  If you are copying my projects, no problem. But don't forget to give appropriate credits to me. :-)
-  
+
+
+Subscribe to my Youtube Channel if you want to see more projects like this one.
+Cheers!
